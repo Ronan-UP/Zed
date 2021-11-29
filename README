@@ -1,0 +1,7 @@
+This project is meant mostly as a test, to see if I could do it.
+I intend to implement a programming language based on the syntax of C, but much more basic, called Z/Zed.
+
+I want the language to support if/else statements, while loops, and a few basic datatypes.
+Obviously, The language itself wil not be very powerful, but I want it to at least be usable.
+
+
